@@ -1,0 +1,2 @@
+# RustSample
+First rust project
